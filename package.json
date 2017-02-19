@@ -63,6 +63,7 @@
     "canvas": "^1.6.3",
     "image-type": "^3.0.0",
     "promiz": "^1.0.5",
+    "webpjs": "0.0.2",
     "yargs": "^6.6.0"
   },
   "devDependencies": {
